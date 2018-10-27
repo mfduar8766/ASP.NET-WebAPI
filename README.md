@@ -6,3 +6,4 @@ There is no database connection. I used the EntityFrameWorkCore package to simul
 I created a models folder to hold the Todo model and connected that model to the EntityFrameworkCore.
 
       
+![](RESTAPI.png)
